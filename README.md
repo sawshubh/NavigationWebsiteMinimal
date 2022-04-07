@@ -1,3 +1,3 @@
-# HMI_Exp4
+# Minimal Website
 
 Navigation website for tourists.
